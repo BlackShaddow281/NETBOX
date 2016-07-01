@@ -17,7 +17,7 @@ if($_GET['page'] == 1) {
     $mysqluser = mysql_real_escape_string($_POST['username']);
     $mysqlpass = mysql_real_escape_string($_POST['password']);
     $mysqldb = mysql_real_escape_string($_POST['db']);
-    echo $_SERVER['DOCUMENT_ROOT'];
+    //echo $_SERVER['DOCUMENT_ROOT'];
 
     //New Data
     $newcontent = "<?php
