@@ -35,9 +35,9 @@ if($_GET['page'] == 1) {
     \r\r?>";
 
     $path1 = 'DOCUMENT_ROOT';
-    $path2 = 'NETBOX/ext/data.php';
+    $path2 = '/NETBOX/ext/data.php';
     echo $path1.$path2;
-    file_put_contents($_SERVER[$path1].$path2, $newcontent);
+    file_put_contents($_SERVER['DOCUMENT_ROOT'].$path2, $newcontent);
 
     ?>
 
