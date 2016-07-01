@@ -62,6 +62,13 @@ $sql3 = 'CREATE TABLE IF NOT EXISTS `accounts` (
  `connection` int(11) DEFAULT NULL
 ) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=latin1';
 
+$user_SYSTEM = 'INSERT INTO `users` (
+ `id`,
+ `loginname`
+) VALUES (0, "test")';
+
+$user_admin = null;
+
 $mysql->query($sql);
 if($mysql->error) {
     die($mysql->error);
@@ -71,6 +78,10 @@ if($mysql->error) {
     die($mysql->error);
 }
 $mysql->query($sql3);
+if($mysql->error) {
+    die($mysql->error);
+}
+$mysql->query($user_SYSTEM);
 if($mysql->error) {
     die($mysql->error);
 }
