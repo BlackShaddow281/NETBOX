@@ -34,7 +34,7 @@ if($_GET['page'] == 1) {
     \r\$mysqldb='".$mysqldb."';
     \r\r?>";
 
-    file_put_contents($_SERVER['DOCUMENT_ROOT'].'/ext/data.php', $newcontent);
+    file_put_contents($_SERVER['DOCUMENT_ROOT'].'NETBOX/ext/data.php', $newcontent);
 
     ?>
 
