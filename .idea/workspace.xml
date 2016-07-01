@@ -21,11 +21,11 @@
     <favorites_list name="NETBOX" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="bin.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ext/bin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="142">
+            <state relative-caret-position="8296">
               <caret line="493" column="0" selection-start-line="493" selection-start-column="0" selection-end-line="493" selection-end-column="0" />
               <folding>
                 <marker date="1466963228254" expanded="true" signature="581:610" ph="SELECT * FRO... users" />
@@ -56,11 +56,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="interface.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="interface.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interface.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-847">
+            <state relative-caret-position="-306">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/setup.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -79,7 +89,7 @@
       <file leaf-file-name="global.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ext/global.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1006">
+            <state relative-caret-position="1326">
               <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
               <folding>
                 <marker date="1467372521897" expanded="true" signature="405:1254" ph="CREATE TABLE... IF" />
@@ -206,12 +216,13 @@
       <option name="presentableId" value="Default" />
       <updated>1467369160407</updated>
       <workItem from="1467369161804" duration="720000" />
-      <workItem from="1467371632222" duration="1581000" />
+      <workItem from="1467371632222" duration="2021000" />
+      <workItem from="1467373676473" duration="30000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2301000" />
+    <option name="totallyTimeSpent" value="2771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -254,7 +265,73 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ext/bin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
+        <state relative-caret-position="8296">
+          <caret line="493" column="0" selection-start-line="493" selection-start-column="0" selection-end-line="493" selection-end-column="0" />
+          <folding>
+            <marker date="1466963228254" expanded="true" signature="581:610" ph="SELECT * FRO... users" />
+            <marker date="1466963228254" expanded="true" signature="1464:1522" ph="SELECT locke... users" />
+            <marker date="1466963228254" expanded="true" signature="1949:1986" ph="UPDATE users... " />
+            <marker date="1466963228254" expanded="true" signature="2207:2251" ph="SELECT locke... users" />
+            <marker date="1466963228254" expanded="true" signature="2731:2789" ph="SELECT mcurr... book_" />
+            <marker date="1466963228254" expanded="true" signature="3135:3193" ph="SELECT mcurr... book_" />
+            <marker date="1466963228254" expanded="true" signature="3490:3536" ph="SELECT first... users" />
+            <marker date="1466963228254" expanded="true" signature="3887:3933" ph="SELECT first... users" />
+            <marker date="1466963228254" expanded="true" signature="4292:4341" ph="SELECT first... accounts" />
+            <marker date="1466963228254" expanded="true" signature="4699:4748" ph="SELECT first... accounts" />
+            <marker date="1466963228254" expanded="true" signature="5759:5796" ph="SELECT birth... users" />
+            <marker date="1466963228254" expanded="true" signature="6113:6151" ph="SELECT creat... users" />
+            <marker date="1466963228254" expanded="true" signature="6527:6574" ph="SELECT * FRO... book_" />
+            <marker date="1466963228254" expanded="true" signature="8435:8464" ph="SELECT * FRO... users" />
+            <marker date="1466963228254" expanded="true" signature="8684:8721" ph="SELECT autho... users" />
+            <marker date="1466963228254" expanded="true" signature="9441:9478" ph="SELECT login... users" />
+            <marker date="1466963228254" expanded="true" signature="9769:9803" ph="SELECT passi... users" />
+            <marker date="1466963228254" expanded="true" signature="10080:10120" ph="SELECT * FRO... accounts" />
+            <marker date="1466963228254" expanded="true" signature="10894:10913" ph="SELECT * FRO... users" />
+            <marker date="1466963228254" expanded="true" signature="11549:11642" ph="SELECT id, a... accounts" />
+            <marker date="1466963228254" expanded="true" signature="12021:12062" ph="SELECT conne... " />
+            <marker date="1466963228254" expanded="true" signature="12362:12400" ph="SELECT comme... accounts" />
+            <marker date="1466963228254" expanded="true" signature="12578:12620" ph="SELECT accou... accounts" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/data.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
+          <folding>
+            <marker date="1467372521897" expanded="true" signature="405:1254" ph="CREATE TABLE... IF" />
+            <marker date="1467372521897" expanded="true" signature="725:782" ph="/* `birthyea... " />
+            <marker date="1467372521897" expanded="true" signature="971:1025" ph="/* `passid` " />
+            <marker date="1467372521897" expanded="true" signature="1318:1642" ph="CREATE TABLE... IF" />
+            <marker date="1467372521897" expanded="true" signature="1670:2111" ph="CREATE TABLE... IF" />
+            <marker date="1467372521897" expanded="true" signature="2131:2149" ph="INSERT INTO users... " />
+            <marker date="1467372521897" expanded="true" signature="2131:2152" ph="INSERT INTO `users`... " />
+            <marker date="1467372521897" expanded="true" signature="2131:2193" ph="INSERT INTO " />
+            <marker date="1467372521897" expanded="true" signature="3423:3636" ph="INSERT INTO users... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ext/bin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8296">
           <caret line="493" column="0" selection-start-line="493" selection-start-column="0" selection-end-line="493" selection-end-column="0" />
           <folding>
             <marker date="1466963228254" expanded="true" signature="581:610" ph="SELECT * FRO... users" />
@@ -286,7 +363,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ext/global.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1006">
+        <state relative-caret-position="1326">
           <caret line="83" column="26" selection-start-line="83" selection-start-column="26" selection-end-line="83" selection-end-column="26" />
           <folding>
             <marker date="1467372521897" expanded="true" signature="405:1254" ph="CREATE TABLE... IF" />
@@ -310,18 +387,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/setup.php">
+    <entry file="file://$PROJECT_DIR$/interface.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="-306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface.php">
+    <entry file="file://$PROJECT_DIR$/setup.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-847">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="238">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
           <folding />
         </state>
       </provider>
