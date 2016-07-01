@@ -22,8 +22,8 @@ if($_GET['page'] == 1) {
     //New Data
     $newcontent = "<?php
     \r/**
-    \r* Mini-Muenchen Bank
-    \r* @author Tobias Schwarz
+    \r* NETBOX
+    \r* @author Developer
     \r* @version 1.4
     \r* 
     \r* In this file the MySQL Data is saved
